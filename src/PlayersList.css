@@ -1,0 +1,8 @@
+.players-container {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+  }
+.couleurdefond{
+    background-color: rgb(167, 158, 158) ;
+}  
